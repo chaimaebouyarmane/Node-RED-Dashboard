@@ -1,0 +1,3288 @@
+[
+    {
+        "id": "2129a9d05d2ecc7c",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "0172eae13333f1a1",
+        "type": "tab",
+        "label": "Flow 2",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "ac7a8b5e931bbd03",
+        "type": "tab",
+        "label": "Flow 3",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "e49feb104d043839",
+        "type": "tab",
+        "label": "Flow 4",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "1bbb33b2f3caef30",
+        "type": "tab",
+        "label": "Flow 5",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "e7444b840e31a65e",
+        "type": "tab",
+        "label": "Flow 6",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "fedea605e5e020f3",
+        "type": "ui_tab",
+        "name": "Accueil",
+        "icon": "fa-home ",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "60c43a9541b3a0d0",
+        "type": "ui_group",
+        "name": "Group 1",
+        "tab": "fedea605e5e020f3",
+        "order": 2,
+        "disp": false,
+        "width": "26",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "d633e2a33454e9ac",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-custom",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#8c0a17",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "reset": false
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#8c0a17",
+                    "value": "#8c0a17",
+                    "edited": true
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#8c0a17",
+                    "edited": true
+                },
+                "page-backgroundColor": {
+                    "value": "#e2e9c0",
+                    "edited": true
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#8c0a17",
+                    "edited": true
+                },
+                "group-textColor": {
+                    "value": "#ffffff",
+                    "edited": true
+                },
+                "group-borderColor": {
+                    "value": "#e2e9c0",
+                    "edited": true
+                },
+                "group-backgroundColor": {
+                    "value": "#e2e9c0",
+                    "edited": true
+                },
+                "widget-textColor": {
+                    "value": "#000000",
+                    "edited": true
+                },
+                "widget-backgroundColor": {
+                    "value": "#b4bdcf",
+                    "edited": true
+                },
+                "widget-borderColor": {
+                    "value": "#e2e9c0",
+                    "edited": true
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "true",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 3,
+                "cy": 6,
+                "px": 10,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "7fa223522eecb191",
+        "type": "ui_group",
+        "name": "Group 2",
+        "tab": "fedea605e5e020f3",
+        "order": 3,
+        "disp": false,
+        "width": "26",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "2a745e6b.07df92",
+        "type": "ui_group",
+        "name": "Default",
+        "tab": "e63bce2d.68925",
+        "order": 5,
+        "disp": true,
+        "width": "6",
+        "collapse": true
+    },
+    {
+        "id": "e63bce2d.68925",
+        "type": "ui_tab",
+        "d": true,
+        "name": "Denon",
+        "icon": "dashboard",
+        "order": 6,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "42d074033dbca06c",
+        "type": "ui_tab",
+        "name": "Map",
+        "icon": "fa-map ",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "8d9e8130bcbb5a2b",
+        "type": "ui_group",
+        "name": "Group 1",
+        "tab": "42d074033dbca06c",
+        "order": 1,
+        "disp": false,
+        "width": 26,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "7e5996fe7758cdb1",
+        "type": "ui_tab",
+        "name": "Covid19",
+        "icon": "fa-medkit",
+        "order": 4,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "edc6e612b7245754",
+        "type": "ui_group",
+        "name": "Groupe 1",
+        "tab": "7e5996fe7758cdb1",
+        "order": 3,
+        "disp": false,
+        "width": 27,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "0f2e2f930d7888e6",
+        "type": "ui_tab",
+        "name": "Meteo",
+        "icon": "fa-sun-o",
+        "order": 3,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "b1c93ade57b188af",
+        "type": "ui_group",
+        "name": "Group 1",
+        "tab": "0f2e2f930d7888e6",
+        "order": 4,
+        "disp": false,
+        "width": 27,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "ad94e5080c93dc2d",
+        "type": "ui_tab",
+        "name": "économie",
+        "icon": "fa-line-chart",
+        "order": 5,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "2ee0d338e0ec4642",
+        "type": "ui_group",
+        "name": "La bourse",
+        "tab": "ad94e5080c93dc2d",
+        "order": 1,
+        "disp": false,
+        "width": 27,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "d2152799ab816730",
+        "type": "ui_group",
+        "name": "Group 4",
+        "tab": "7e5996fe7758cdb1",
+        "order": 4,
+        "disp": false,
+        "width": 27,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "e62fe28ec683695c",
+        "type": "ui_group",
+        "name": "Group 2",
+        "tab": "0f2e2f930d7888e6",
+        "order": 1,
+        "disp": false,
+        "width": 27,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "18d5ba5f5ef8f12f",
+        "type": "ui_group",
+        "name": "Group 3",
+        "tab": "0f2e2f930d7888e6",
+        "order": 2,
+        "disp": false,
+        "width": 27,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "191e7894a320d053",
+        "type": "ui_group",
+        "name": "Group 4",
+        "tab": "0f2e2f930d7888e6",
+        "order": 3,
+        "disp": false,
+        "width": 27,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "062925953da6525e",
+        "type": "ui_group",
+        "name": "Chomage",
+        "tab": "ad94e5080c93dc2d",
+        "order": 2,
+        "disp": false,
+        "width": 27,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "6efcc19883dcdf68",
+        "type": "ui_group",
+        "d": true,
+        "name": "Denon",
+        "tab": "4d1088f69f4539a1",
+        "order": 1,
+        "disp": true,
+        "width": "24",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "4d1088f69f4539a1",
+        "type": "ui_tab",
+        "name": "Default",
+        "icon": "dashboard",
+        "order": 7,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "b210b86e5e5215c0",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "60c43a9541b3a0d0",
+        "order": 1,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "33f7dc6bd6c26466",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "60c43a9541b3a0d0",
+        "order": 3,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "b4e505d07e5bc697",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 1,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "5aa489b5047fb740",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 8,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "7218c69e402b0ae8",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 9,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "0a472203f439c933",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 10,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "aea2ce61be17309c",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 11,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "ebaf286ddff96a1f",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 12,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "32c1ed0617b84a70",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 13,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "031db0daefcb2f37",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 14,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "cafb3fe3c0a1c4ac",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 15,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "a80d3f905792bd05",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 22,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "a40db13e7740cca6",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 23,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "9c861f79e821df6e",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 24,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "7ad5906527fbfc77",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 25,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "3b44770c0a7fcfa1",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 26,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "c7b9a469d9643f3f",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 27,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "7be270fa1230aeb7",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 28,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "52949965bbf2a1ad",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 29,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "29aa1eb60fc59758",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 36,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "63cad249b319c3c6",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 37,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "bf095e3ff96e25a5",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 38,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "6bc23550f5dcc828",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 39,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "76a26609e76c3199",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 40,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "340d2fb3aa142587",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 41,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "e661985c9641bc80",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "7fa223522eecb191",
+        "order": 42,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "c1226082d3d78c5e",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "e62fe28ec683695c",
+        "order": 1,
+        "width": 8,
+        "height": 1
+    },
+    {
+        "id": "6a58ab0ae30ad735",
+        "type": "ui_spacer",
+        "z": "2129a9d05d2ecc7c",
+        "name": "spacer",
+        "group": "e62fe28ec683695c",
+        "order": 3,
+        "width": 7,
+        "height": 1
+    },
+    {
+        "id": "f32e5501f3b0721b",
+        "type": "ui_spacer",
+        "z": "ac7a8b5e931bbd03",
+        "name": "spacer",
+        "group": "8d9e8130bcbb5a2b",
+        "order": 1,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "da21fb505b83ce46",
+        "type": "ui_spacer",
+        "z": "ac7a8b5e931bbd03",
+        "name": "spacer",
+        "group": "8d9e8130bcbb5a2b",
+        "order": 3,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "599ce5e6cfb89789",
+        "type": "ui_spacer",
+        "z": "ac7a8b5e931bbd03",
+        "name": "spacer",
+        "group": "8d9e8130bcbb5a2b",
+        "order": 4,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "91b3874094bfca65",
+        "type": "ui_spacer",
+        "z": "ac7a8b5e931bbd03",
+        "name": "spacer",
+        "group": "8d9e8130bcbb5a2b",
+        "order": 6,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "2fb4336564310c3a",
+        "type": "ui_spacer",
+        "z": "ac7a8b5e931bbd03",
+        "name": "spacer",
+        "group": "8d9e8130bcbb5a2b",
+        "order": 7,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "be86ff43dda4cece",
+        "type": "ui_spacer",
+        "z": "ac7a8b5e931bbd03",
+        "name": "spacer",
+        "group": "8d9e8130bcbb5a2b",
+        "order": 8,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "d6a5765c104beb96",
+        "type": "ui_spacer",
+        "z": "ac7a8b5e931bbd03",
+        "name": "spacer",
+        "group": "8d9e8130bcbb5a2b",
+        "order": 9,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "b070f95a0609179d",
+        "type": "ui_spacer",
+        "z": "ac7a8b5e931bbd03",
+        "name": "spacer",
+        "group": "8d9e8130bcbb5a2b",
+        "order": 10,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "62ca165ba1d46e5e",
+        "type": "ui_spacer",
+        "z": "ac7a8b5e931bbd03",
+        "name": "spacer",
+        "group": "8d9e8130bcbb5a2b",
+        "order": 11,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "4be0caff9c71492e",
+        "type": "ui_spacer",
+        "z": "ac7a8b5e931bbd03",
+        "name": "spacer",
+        "group": "8d9e8130bcbb5a2b",
+        "order": 12,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "421117f9d4c88ff7",
+        "type": "ui_spacer",
+        "z": "ac7a8b5e931bbd03",
+        "name": "spacer",
+        "group": "8d9e8130bcbb5a2b",
+        "order": 13,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "e436b4b1ea727425",
+        "type": "ui_spacer",
+        "z": "ac7a8b5e931bbd03",
+        "name": "spacer",
+        "group": "8d9e8130bcbb5a2b",
+        "order": 14,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "0177ce6bf969c0c5",
+        "type": "ui_spacer",
+        "z": "ac7a8b5e931bbd03",
+        "name": "spacer",
+        "group": "8d9e8130bcbb5a2b",
+        "order": 15,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "7332d469d38cbc83",
+        "type": "ui_spacer",
+        "z": "ac7a8b5e931bbd03",
+        "name": "spacer",
+        "group": "8d9e8130bcbb5a2b",
+        "order": 16,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "b58be58d05904318",
+        "type": "ui_spacer",
+        "z": "ac7a8b5e931bbd03",
+        "name": "spacer",
+        "group": "8d9e8130bcbb5a2b",
+        "order": 17,
+        "width": 26,
+        "height": 1
+    },
+    {
+        "id": "9551d37e316447fb",
+        "type": "ui_spacer",
+        "z": "ac7a8b5e931bbd03",
+        "name": "spacer",
+        "group": "8d9e8130bcbb5a2b",
+        "order": 18,
+        "width": 26,
+        "height": 1
+    },
+    {
+        "id": "8155c827e24f0347",
+        "type": "ui_template",
+        "z": "2129a9d05d2ecc7c",
+        "group": "60c43a9541b3a0d0",
+        "name": "",
+        "order": 2,
+        "width": 13,
+        "height": 1,
+        "format": " <style>\n .sdg-header {\n    margin: 0 auto 10px auto;\n    /*margin:0px;*/\n    position: relative;\n    height: 250px;\n    width:480px;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n\n\nbody.nr-dashboard-theme md-content md-card {\n    background-color:#7955487d;\n    color: #ffffff;\n}\n/*.class44{*/\n/*    background-color:#f4f4f4 !important;*/\n/*    color:black !important;*/\n/*}*/\n.nr-dashboard-theme .nr-dashboard-form {\n    \n     background-color:#7955487d!important;\n}\n\n.nr-dashboard-theme .nr-dashboard-form-button {\n    background-color: background-color: #8C0A17;!important;!important\n    color: white!important;\n}\n\n\n\n</style>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "global",
+        "className": "",
+        "x": 120,
+        "y": 280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8c21af327b59698e",
+        "type": "ui_media",
+        "z": "2129a9d05d2ecc7c",
+        "group": "7fa223522eecb191",
+        "name": "1",
+        "width": 4,
+        "height": 4,
+        "order": 2,
+        "category": "background",
+        "file": "F_SDG-goals_icons-individual-rgb-01.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": true,
+        "onstart": false,
+        "scope": "local",
+        "tooltip": "",
+        "x": 250,
+        "y": 60,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c1ddafeec5f30e4f",
+        "type": "ui_media",
+        "z": "2129a9d05d2ecc7c",
+        "group": "7fa223522eecb191",
+        "name": "3",
+        "width": 4,
+        "height": 4,
+        "order": 4,
+        "category": "test",
+        "file": "F_SDG-goals_icons-individual-rgb-03.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": true,
+        "onstart": false,
+        "scope": "local",
+        "tooltip": "",
+        "x": 510,
+        "y": 60,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2c5df3168ffb31e1",
+        "type": "ui_media",
+        "z": "2129a9d05d2ecc7c",
+        "group": "7fa223522eecb191",
+        "name": "2",
+        "width": 4,
+        "height": 4,
+        "order": 3,
+        "category": "background",
+        "file": "F_SDG-goals_icons-individual-rgb-02.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": true,
+        "onstart": false,
+        "scope": "local",
+        "tooltip": "",
+        "x": 390,
+        "y": 60,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0d48285434a2bee7",
+        "type": "ui_media",
+        "z": "2129a9d05d2ecc7c",
+        "group": "7fa223522eecb191",
+        "name": "4",
+        "width": 4,
+        "height": 4,
+        "order": 5,
+        "category": "background",
+        "file": "F_SDG-goals_icons-individual-rgb-04.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": true,
+        "onstart": false,
+        "scope": "local",
+        "tooltip": "",
+        "x": 630,
+        "y": 60,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1c13952c7d7f708e",
+        "type": "ui_media",
+        "z": "2129a9d05d2ecc7c",
+        "group": "7fa223522eecb191",
+        "name": "5",
+        "width": 4,
+        "height": 4,
+        "order": 6,
+        "category": "background",
+        "file": "F_SDG-goals_icons-individual-rgb-05-400x400.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": true,
+        "onstart": false,
+        "scope": "local",
+        "tooltip": "",
+        "x": 750,
+        "y": 60,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c67015f3b21c4826",
+        "type": "ui_media",
+        "z": "2129a9d05d2ecc7c",
+        "group": "7fa223522eecb191",
+        "name": "6",
+        "width": 4,
+        "height": 4,
+        "order": 7,
+        "category": "background",
+        "file": "F_SDG-goals_icons-individual-rgb-06.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": true,
+        "onstart": false,
+        "scope": "local",
+        "tooltip": "",
+        "x": 890,
+        "y": 60,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0446aa9e62020bba",
+        "type": "ui_media",
+        "z": "2129a9d05d2ecc7c",
+        "group": "7fa223522eecb191",
+        "name": "7",
+        "width": 4,
+        "height": 4,
+        "order": 16,
+        "category": "background",
+        "file": "F_SDG-goals_icons-individual-rgb-07.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": true,
+        "onstart": false,
+        "scope": "local",
+        "tooltip": "",
+        "x": 230,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0627bfc387ccf207",
+        "type": "ui_media",
+        "z": "2129a9d05d2ecc7c",
+        "group": "7fa223522eecb191",
+        "name": "9",
+        "width": 4,
+        "height": 4,
+        "order": 18,
+        "category": "test",
+        "file": "F_SDG-goals_icons-individual-rgb-09.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": true,
+        "onstart": false,
+        "scope": "local",
+        "tooltip": "",
+        "x": 490,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "da31ad8807246569",
+        "type": "ui_media",
+        "z": "2129a9d05d2ecc7c",
+        "group": "7fa223522eecb191",
+        "name": "8",
+        "width": 4,
+        "height": 4,
+        "order": 17,
+        "category": "background",
+        "file": "F_SDG-goals_icons-individual-rgb-08.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": true,
+        "onstart": false,
+        "scope": "local",
+        "tooltip": "",
+        "x": 370,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a9c773b110758c98",
+        "type": "ui_media",
+        "z": "2129a9d05d2ecc7c",
+        "group": "7fa223522eecb191",
+        "name": "10",
+        "width": 4,
+        "height": 4,
+        "order": 19,
+        "category": "test",
+        "file": "F_SDG-goals_icons-individual-rgb-10.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": true,
+        "onstart": false,
+        "scope": "local",
+        "tooltip": "",
+        "x": 610,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c271b6beeab5454d",
+        "type": "ui_media",
+        "z": "2129a9d05d2ecc7c",
+        "group": "7fa223522eecb191",
+        "name": "11",
+        "width": 4,
+        "height": 4,
+        "order": 20,
+        "category": "test",
+        "file": "F_SDG-goals_icons-individual-rgb-11.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": true,
+        "onstart": false,
+        "scope": "local",
+        "tooltip": "",
+        "x": 730,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "48a02f474ce05cf6",
+        "type": "ui_media",
+        "z": "2129a9d05d2ecc7c",
+        "group": "7fa223522eecb191",
+        "name": "12",
+        "width": 4,
+        "height": 4,
+        "order": 21,
+        "category": "test",
+        "file": "F_SDG-goals_icons-individual-rgb-12.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": true,
+        "onstart": false,
+        "scope": "local",
+        "tooltip": "",
+        "x": 870,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7a21a126817b67ca",
+        "type": "ui_media",
+        "z": "2129a9d05d2ecc7c",
+        "group": "7fa223522eecb191",
+        "name": "13",
+        "width": 4,
+        "height": 4,
+        "order": 30,
+        "category": "test2",
+        "file": "F_SDG-goals_icons-individual-rgb-13.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": true,
+        "onstart": false,
+        "scope": "local",
+        "tooltip": "",
+        "x": 230,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f038c41bdcd81678",
+        "type": "ui_media",
+        "z": "2129a9d05d2ecc7c",
+        "group": "7fa223522eecb191",
+        "name": "15",
+        "width": 4,
+        "height": 4,
+        "order": 32,
+        "category": "test2",
+        "file": "F_SDG-goals_icons-individual-rgb-15.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": true,
+        "onstart": false,
+        "scope": "local",
+        "tooltip": "",
+        "x": 490,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7a10972f53d0c47c",
+        "type": "ui_media",
+        "z": "2129a9d05d2ecc7c",
+        "group": "7fa223522eecb191",
+        "name": "14",
+        "width": 4,
+        "height": 4,
+        "order": 31,
+        "category": "test2",
+        "file": "F_SDG-goals_icons-individual-rgb-14.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": true,
+        "onstart": false,
+        "scope": "local",
+        "tooltip": "",
+        "x": 370,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "dd7e23c76cdf0123",
+        "type": "ui_media",
+        "z": "2129a9d05d2ecc7c",
+        "group": "7fa223522eecb191",
+        "name": "16",
+        "width": 4,
+        "height": 4,
+        "order": 33,
+        "category": "test2",
+        "file": "F_SDG-goals_icons-individual-rgb-16.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": true,
+        "onstart": false,
+        "scope": "local",
+        "tooltip": "",
+        "x": 610,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9cb177f6779e77bd",
+        "type": "ui_media",
+        "z": "2129a9d05d2ecc7c",
+        "group": "7fa223522eecb191",
+        "name": "17",
+        "width": 4,
+        "height": 4,
+        "order": 34,
+        "category": "test2",
+        "file": "F_SDG-goals_icons-individual-rgb-17.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": true,
+        "onstart": false,
+        "scope": "local",
+        "tooltip": "",
+        "x": 730,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fe240828d4fc71e9",
+        "type": "ui_media",
+        "z": "2129a9d05d2ecc7c",
+        "group": "7fa223522eecb191",
+        "name": "tttt",
+        "width": 4,
+        "height": 4,
+        "order": 35,
+        "category": "test2",
+        "file": "F_SDG_logo_with_UN_Emblem_rgb.jpg",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": true,
+        "onstart": false,
+        "scope": "local",
+        "tooltip": "",
+        "x": 877,
+        "y": 183,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "aa1a411a1c60d6da",
+        "type": "ui_template",
+        "z": "2129a9d05d2ecc7c",
+        "group": "60c43a9541b3a0d0",
+        "name": "objectif",
+        "order": 4,
+        "width": 26,
+        "height": 2,
+        "format": "<div class=\"sdg-header\">\n <div style=\"margin-right:10px\"><img src=\"https://morocco.opendataforafrica.org/theme/img/coat.png\" > </div>  \n<img src=\"https://cdn.knoema.com/production/KFM/img/sdg/logo-fr.svg\">\n\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 100,
+        "y": 60,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "79f1107ed7cf6276",
+        "type": "function",
+        "z": "ac7a8b5e931bbd03",
+        "name": "TotalConfirmed",
+        "func": "msg = msg.payload;\nmsg.topic = \"TotalConfirmed\";\n\nmsg.payload = msg.MAR.total_cases;\nreturn msg;\npayload",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 420,
+        "y": 300,
+        "wires": [
+            [
+                "4c84934b8a9ec02c",
+                "ab046b65ce2e348c"
+            ]
+        ]
+    },
+    {
+        "id": "bb9333e8a6448146",
+        "type": "function",
+        "z": "ac7a8b5e931bbd03",
+        "name": "TotalDeaths",
+        "func": "msg = msg.payload;\nmsg.topic = \"TotalDeaths\";\n\nmsg.payload = msg.MAR.total_deaths;\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 510,
+        "y": 200,
+        "wires": [
+            [
+                "4c84934b8a9ec02c",
+                "a62db55203b3dc49"
+            ]
+        ]
+    },
+    {
+        "id": "c9e60eb1789552f9",
+        "type": "inject",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 140,
+        "y": 100,
+        "wires": [
+            [
+                "fa813d65aaed2768"
+            ]
+        ]
+    },
+    {
+        "id": "4c84934b8a9ec02c",
+        "type": "ui_chart",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "group": "edc6e612b7245754",
+        "order": 3,
+        "width": 13,
+        "height": 6,
+        "label": "Evolution du nombre de décès par rapport au nombre de cas confirmés",
+        "chartType": "horizontalBar",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": true,
+        "useUTC": false,
+        "colors": [
+            "#730c0c",
+            "#aec7e8",
+            "#ff7f0e",
+            "#0a8a0a",
+            "#98df8a",
+            "#9c0d0d",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 890,
+        "y": 260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1b1f3e249d6f65be",
+        "type": "ui_text",
+        "z": "ac7a8b5e931bbd03",
+        "group": "edc6e612b7245754",
+        "order": 1,
+        "width": 7,
+        "height": 3,
+        "name": "",
+        "label": "<font size=\"4\"><span> <b>Nouveaux cas</b></span> </font>",
+        "format": "{{msg.payload[0].confi}}",
+        "layout": "col-center",
+        "className": "",
+        "x": 970,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "32f006b4139d0de5",
+        "type": "ui_text",
+        "z": "ac7a8b5e931bbd03",
+        "group": "edc6e612b7245754",
+        "order": 2,
+        "width": 7,
+        "height": 3,
+        "name": "",
+        "label": " <font size=\"4\"><span> <b>Nouveaux décès</b></span> </font>",
+        "format": "{{msg.payload[0].dea}}",
+        "layout": "col-center",
+        "className": "",
+        "x": 990,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "ab046b65ce2e348c",
+        "type": "ui_text",
+        "z": "ac7a8b5e931bbd03",
+        "group": "edc6e612b7245754",
+        "order": 4,
+        "width": 7,
+        "height": 3,
+        "name": "",
+        "label": "<font size=\"4\"><span><b> nombre total de cas confirmés</b></span> </font>",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "x": 910,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "a62db55203b3dc49",
+        "type": "ui_text",
+        "z": "ac7a8b5e931bbd03",
+        "group": "edc6e612b7245754",
+        "order": 5,
+        "width": 7,
+        "height": 3,
+        "name": "",
+        "label": "<font size=\"4\"><span><b> Décès total</b></span> </font>",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "x": 880,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "cdee9b38d39d3aed",
+        "type": "comment",
+        "z": "ac7a8b5e931bbd03",
+        "name": "covid",
+        "info": "",
+        "x": 390,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "b5562e31d7181864",
+        "type": "comment",
+        "z": "ac7a8b5e931bbd03",
+        "name": "vaccination",
+        "info": "",
+        "x": 420,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "5c05a4d4b14fdaf6",
+        "type": "http request",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.json",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "senderr": false,
+        "x": 370,
+        "y": 540,
+        "wires": [
+            [
+                "176604501aa450a7",
+                "7abf91bc5ade7332",
+                "ebedc49b028fe782",
+                "7752a6d06118bddc"
+            ]
+        ]
+    },
+    {
+        "id": "82b2e5017dd7b101",
+        "type": "inject",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 220,
+        "y": 540,
+        "wires": [
+            [
+                "5c05a4d4b14fdaf6"
+            ]
+        ]
+    },
+    {
+        "id": "176604501aa450a7",
+        "type": "function",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "func": "msg.payload =  msg.payload[140];\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 540,
+        "wires": [
+            [
+                "8aec6079252d2d94"
+            ]
+        ]
+    },
+    {
+        "id": "8aec6079252d2d94",
+        "type": "debug",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 750,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "7abf91bc5ade7332",
+        "type": "function",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "func": "var m={};\nm.labels = [\"2021\", \"2022\"];\nm.series = [\"Janvier\", \"Février\", \"Mars\",\"Avril\",\"Mai\",\"Juin\",\"Juillet\",\"Août\",\"Septembre\",\"Octobre\",\"Novembre\",\"Décembre\"];\nm.data = [\n    [msg.payload[140].data[0].total_vaccinations, msg.payload[140].data[339].total_vaccinations],\n    [msg.payload[140].data[4].total_vaccinations, msg.payload[140].data[369].total_vaccinations],\n    [msg.payload[140].data[32].total_vaccinations,msg.payload[140].data[402].total_vaccinations],\n     [msg.payload[140].data[63].total_vaccinations, msg.payload[140].data[430].total_vaccinations],\n      [msg.payload[140].data[93].total_vaccinations, msg.payload[140].data[462].total_vaccinations],\n      [msg.payload[140].data[124].total_vaccinations, msg.payload[140].data[503].total_vaccinations],\n      [msg.payload[140].data[154].total_vaccinations],\n      [msg.payload[140].data[185].total_vaccinations],\n      [msg.payload[140].data[216].total_vaccinations],\n      [ msg.payload[140].data[247].total_vaccinations],\n      [ msg.payload[140].data[278].total_vaccinations],\n      [msg.payload[140].data[310].total_vaccinations]\n    \n  ];\nreturn {payload:[m]};",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 440,
+        "y": 620,
+        "wires": [
+            [
+                "41e072e08adae94e"
+            ]
+        ]
+    },
+    {
+        "id": "41e072e08adae94e",
+        "type": "ui_chart",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "group": "d2152799ab816730",
+        "order": 1,
+        "width": 19,
+        "height": 9,
+        "label": "Evolution du nombre de vaccins (2021-2022)",
+        "chartType": "bar",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": true,
+        "useUTC": false,
+        "colors": [
+            "#d6f7cf",
+            "#c6dbc2",
+            "#b5c2b3",
+            "#92a98e",
+            "#7a9a74",
+            "#689060",
+            "#53874a",
+            "#55734e",
+            "#4b6f44"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 710,
+        "y": 620,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ebedc49b028fe782",
+        "type": "function",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "func": "var m={\n    \"series\":[\"X\"],\n    \"data\":[[msg.payload[140].data[503].people_fully_vaccinated,37771001]],\n    \"labels\":[\" Personnes entièrement vaccinées\",\"population totale\"]\n};\nreturn {payload:[m]};\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 240,
+        "y": 660,
+        "wires": [
+            [
+                "1192e069f2951984",
+                "4be7ba7be8fc8639"
+            ]
+        ]
+    },
+    {
+        "id": "1192e069f2951984",
+        "type": "ui_chart",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "group": "d2152799ab816730",
+        "order": 4,
+        "width": 8,
+        "height": 3,
+        "label": " Personnes entièrement vaccinées",
+        "chartType": "pie",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": "",
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#7296a7",
+            "#d3d8de",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 500,
+        "y": 740,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4be7ba7be8fc8639",
+        "type": "debug",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 510,
+        "y": 680,
+        "wires": []
+    },
+    {
+        "id": "e8251a578f767f0c",
+        "type": "inject",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 120,
+        "y": 1160,
+        "wires": [
+            [
+                "f4ba9f946064aa75"
+            ]
+        ]
+    },
+    {
+        "id": "f4ba9f946064aa75",
+        "type": "file in",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "filename": "C:\\Users\\CB\\Desktop\\Morocco.csv",
+        "format": "utf8",
+        "chunk": false,
+        "sendError": false,
+        "encoding": "utf8",
+        "allProps": false,
+        "x": 360,
+        "y": 1140,
+        "wires": [
+            [
+                "e4d7d499e9611944"
+            ]
+        ]
+    },
+    {
+        "id": "ab26c837869f992d",
+        "type": "function",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "func": "var m={\n    \"series\":[msg.payload[1].Date],\n    \"data\":[[msg.payload[1].Male,msg.payload[1].Female]],\n    \"labels\":[\"Homme\",\"femme\"]\n};\nreturn {payload:[m]};\n\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 640,
+        "y": 1140,
+        "wires": [
+            [
+                "a409c22e580e390f"
+            ]
+        ]
+    },
+    {
+        "id": "e4d7d499e9611944",
+        "type": "csv",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "sep": ",",
+        "hdrin": true,
+        "hdrout": "none",
+        "multi": "mult",
+        "ret": "\\r\\n",
+        "temp": "",
+        "skip": "0",
+        "strings": true,
+        "include_empty_strings": false,
+        "include_null_values": false,
+        "x": 550,
+        "y": 1060,
+        "wires": [
+            [
+                "ab26c837869f992d",
+                "2ad725feb44dedee"
+            ]
+        ]
+    },
+    {
+        "id": "a409c22e580e390f",
+        "type": "ui_chart",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "group": "d2152799ab816730",
+        "order": 2,
+        "width": 8,
+        "height": 3,
+        "label": "Cas de covid par genre (En %)",
+        "chartType": "pie",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": "",
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#a9c3d6",
+            "#f0dbe9",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 930,
+        "y": 1140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2ad725feb44dedee",
+        "type": "function",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "func": "var m={\n    \"series\":[msg.payload[4].Date],\n    \"data\":[[msg.payload[4].Male,msg.payload[4].Female]],\n    \"labels\":[\"Homme\",\"femme\"]\n};\nreturn {payload:[m]};\n\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 640,
+        "y": 1240,
+        "wires": [
+            [
+                "810a53b58549a138"
+            ]
+        ]
+    },
+    {
+        "id": "810a53b58549a138",
+        "type": "ui_chart",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "group": "d2152799ab816730",
+        "order": 3,
+        "width": 8,
+        "height": 3,
+        "label": "Décès de covid par genre (En %)",
+        "chartType": "pie",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": "",
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#a9c3d6",
+            "#f0dbe9",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 920,
+        "y": 1240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fa813d65aaed2768",
+        "type": "http request",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/latest/owid-covid-latest.json",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "senderr": false,
+        "x": 330,
+        "y": 100,
+        "wires": [
+            [
+                "ee6b6b23200b6271",
+                "bb9333e8a6448146",
+                "79f1107ed7cf6276",
+                "c57448a934f48e16"
+            ]
+        ]
+    },
+    {
+        "id": "ee6b6b23200b6271",
+        "type": "function",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "func": "msg1 = msg.payload;\n\n\nmsg1.conf = msg1.MAR.new_cases;\nmsg1.de =  msg1.MAR.new_deaths;\n\nmsg.payload = [{confi:msg1.conf,dea:msg1.de}];\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 520,
+        "y": 120,
+        "wires": [
+            [
+                "1b1f3e249d6f65be",
+                "32f006b4139d0de5"
+            ]
+        ]
+    },
+    {
+        "id": "7752a6d06118bddc",
+        "type": "debug",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 570,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "c57448a934f48e16",
+        "type": "debug",
+        "z": "ac7a8b5e931bbd03",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 550,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "cf0dd33698a5c31e",
+        "type": "json",
+        "z": "e49feb104d043839",
+        "name": "Data",
+        "property": "payload",
+        "action": "",
+        "pretty": true,
+        "x": 490,
+        "y": 60,
+        "wires": [
+            [
+                "d3759627e13a298b",
+                "2ef66f57618df903",
+                "a1b0c5764a9e5f94",
+                "7f1406be9df8cce4",
+                "2a52aba748bd5fc0",
+                "b2b34b9bab556795",
+                "23676d1596990c30",
+                "05d7f49ee9af9775",
+                "2ccd097065ebe40d",
+                "f8cc660eeff54092",
+                "2c31f9c473d56da5"
+            ]
+        ]
+    },
+    {
+        "id": "d3759627e13a298b",
+        "type": "ui_gauge",
+        "z": "e49feb104d043839",
+        "name": "",
+        "group": "191e7894a320d053",
+        "order": 1,
+        "width": 9,
+        "height": 6,
+        "gtype": "gage",
+        "title": "Temperature",
+        "label": "°C",
+        "format": "{{msg.payload.main.temp}}",
+        "min": "-40",
+        "max": "40",
+        "colors": [
+            "#ecee68",
+            "#e2a522",
+            "#e15141"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 390,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "2ef66f57618df903",
+        "type": "ui_gauge",
+        "z": "e49feb104d043839",
+        "name": "",
+        "group": "191e7894a320d053",
+        "order": 2,
+        "width": 9,
+        "height": 6,
+        "gtype": "donut",
+        "title": "Pression",
+        "label": "hPa",
+        "format": "{{msg.payload.main.pressure}}",
+        "min": "0",
+        "max": "2000",
+        "colors": [
+            "#00b500",
+            "#f2f250",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 180,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "7f1406be9df8cce4",
+        "type": "ui_text",
+        "z": "e49feb104d043839",
+        "group": "18d5ba5f5ef8f12f",
+        "order": 1,
+        "width": 3,
+        "height": 5,
+        "name": "",
+        "label": "<font size=\"7\"><i class=\"fa fa-map-marker\"></i>",
+        "format": "<font size=\"5\">{{msg.payload.name}} ",
+        "layout": "col-center",
+        "className": "",
+        "x": 240,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "a1b0c5764a9e5f94",
+        "type": "ui_gauge",
+        "z": "e49feb104d043839",
+        "name": "",
+        "group": "191e7894a320d053",
+        "order": 3,
+        "width": 9,
+        "height": 6,
+        "gtype": "compass",
+        "title": "Vitesse du vent",
+        "label": "m/s",
+        "format": "{{msg.payload.wind.speed}}",
+        "min": "0",
+        "max": "40",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 140,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "1326c90ce3321217",
+        "type": "ui_form",
+        "z": "e49feb104d043839",
+        "name": "",
+        "label": "<div align=\"center\">Météo</div>",
+        "group": "e62fe28ec683695c",
+        "order": 2,
+        "width": 12,
+        "height": 1,
+        "options": [
+            {
+                "label": "Ville",
+                "value": "city",
+                "type": "text",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "city": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
+        "topic": "topic",
+        "topicType": "str",
+        "splitLayout": false,
+        "className": "class44",
+        "x": 230,
+        "y": 100,
+        "wires": [
+            [
+                "46b01dd16d07b6b0"
+            ]
+        ]
+    },
+    {
+        "id": "46b01dd16d07b6b0",
+        "type": "http request",
+        "z": "e49feb104d043839",
+        "name": "Openweathermap",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "query",
+        "url": "http://api.openweathermap.org/data/2.5/weather?q={{{payload.city}}},Morocco}&units=metric&appid=f9a0e61c7624dcb82dd1678db5424b7b",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "senderr": false,
+        "x": 290,
+        "y": 60,
+        "wires": [
+            [
+                "cf0dd33698a5c31e"
+            ]
+        ]
+    },
+    {
+        "id": "2c31f9c473d56da5",
+        "type": "ui_gauge",
+        "z": "e49feb104d043839",
+        "name": "g1",
+        "group": "b1c93ade57b188af",
+        "order": 1,
+        "width": 8,
+        "height": 3,
+        "gtype": "wave",
+        "title": " Humidité",
+        "label": "",
+        "format": "{{msg.payload.main.humidity}}",
+        "min": "0",
+        "max": "110",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 770,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "1aa70ab9886087ee",
+        "type": "ui_chart",
+        "z": "e49feb104d043839",
+        "name": "",
+        "group": "18d5ba5f5ef8f12f",
+        "order": 2,
+        "width": 24,
+        "height": 5,
+        "label": "Temperature",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#b31e1e",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 890,
+        "y": 60,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2a52aba748bd5fc0",
+        "type": "function",
+        "z": "e49feb104d043839",
+        "name": "",
+        "func": "msg.payload = msg.payload.main.temp;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 60,
+        "wires": [
+            [
+                "1aa70ab9886087ee"
+            ]
+        ]
+    },
+    {
+        "id": "974b8688fe10291c",
+        "type": "ui_text",
+        "z": "e49feb104d043839",
+        "group": "b1c93ade57b188af",
+        "order": 2,
+        "width": 8,
+        "height": 3,
+        "name": "",
+        "label": "<font size=\"5\">  <font color=\"black\" <span class=\"fa fa-sun-o \"> Lever du soleil</span> </font>",
+        "format": "{{msg.payload.sys.sunrise}}",
+        "layout": "col-center",
+        "className": "",
+        "x": 615,
+        "y": 220,
+        "wires": [],
+        "l": false
+    },
+    {
+        "id": "b2b34b9bab556795",
+        "type": "function",
+        "z": "e49feb104d043839",
+        "name": "",
+        "func": "function timeConvert(UNIX_timestamp){\n  var dateObject = new Date(UNIX_timestamp * 1000);\n  if (flow.get('hour12')) {  // 12 hour time format\n    return dateObject.toLocaleString('en', { timezone: msg.payload.timezone, hour12: true, hour: 'numeric', minute: '2-digit'}).toLowerCase();\n  } else {  // 24 hour time format\n    return dateObject.toLocaleString('en', { timezone: msg.payload.timezone, hour12: false, hour: 'numeric', minute: '2-digit'});\n  }      \n}\n\nmsg.payload.sys.sunrise = timeConvert(msg.payload.sys.sunrise);\nmsg.payload.sys.sunset = timeConvert(msg.payload.sys.sunset);\nreturn msg;\n\n \n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 780,
+        "y": 120,
+        "wires": [
+            [
+                "974b8688fe10291c",
+                "a71d0cdff8227d0f"
+            ]
+        ]
+    },
+    {
+        "id": "a71d0cdff8227d0f",
+        "type": "ui_text",
+        "z": "e49feb104d043839",
+        "group": "b1c93ade57b188af",
+        "order": 3,
+        "width": 7,
+        "height": 3,
+        "name": "",
+        "label": "<font size=\"5\">  <font color=\"black\" <span class=\"fa fa-moon-o\">  coucher du soleil</span> </font>",
+        "format": "{{msg.payload.sys.sunset}}",
+        "layout": "col-center",
+        "className": "",
+        "x": 755,
+        "y": 180,
+        "wires": [],
+        "l": false
+    },
+    {
+        "id": "f8cc660eeff54092",
+        "type": "ui_text",
+        "z": "e49feb104d043839",
+        "group": "b1c93ade57b188af",
+        "order": 4,
+        "width": 4,
+        "height": 1,
+        "name": "",
+        "label": "",
+        "format": "<font size=\"6\"><font color=black><i class=\"fa fa-globe \"></i></font>",
+        "layout": "col-center",
+        "className": "",
+        "x": 325,
+        "y": 440,
+        "wires": [],
+        "icon": "font-awesome/fa-tint",
+        "l": false
+    },
+    {
+        "id": "23676d1596990c30",
+        "type": "ui_text",
+        "z": "e49feb104d043839",
+        "group": "b1c93ade57b188af",
+        "order": 5,
+        "width": 4,
+        "height": 1,
+        "name": "",
+        "label": " longitude :",
+        "format": "{{msg.payload.coord.lon}}",
+        "layout": "row-center",
+        "className": "",
+        "x": 350,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "05d7f49ee9af9775",
+        "type": "debug",
+        "z": "e49feb104d043839",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 570,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "2ccd097065ebe40d",
+        "type": "ui_text",
+        "z": "e49feb104d043839",
+        "group": "b1c93ade57b188af",
+        "order": 6,
+        "width": 4,
+        "height": 1,
+        "name": "",
+        "label": "Latitude : ",
+        "format": "{{msg.payload.coord.lat}}",
+        "layout": "row-center",
+        "className": "",
+        "x": 380,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "9c6d33865b9ec619",
+        "type": "inject",
+        "z": "1bbb33b2f3caef30",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 220,
+        "y": 140,
+        "wires": [
+            [
+                "4bf05be83b5c2ebd"
+            ]
+        ]
+    },
+    {
+        "id": "4bef5b83ee90cfdd",
+        "type": "csv",
+        "z": "1bbb33b2f3caef30",
+        "name": "",
+        "sep": ",",
+        "hdrin": true,
+        "hdrout": "none",
+        "multi": "mult",
+        "ret": "\\r\\n",
+        "temp": "",
+        "skip": "0",
+        "strings": true,
+        "include_empty_strings": false,
+        "include_null_values": false,
+        "x": 650,
+        "y": 140,
+        "wires": [
+            [
+                "4599160c4d6c98ca",
+                "2a3f67a77b22f7c9",
+                "f8090cb66ef89f04",
+                "58257eb5d31a25e7"
+            ]
+        ]
+    },
+    {
+        "id": "4599160c4d6c98ca",
+        "type": "debug",
+        "z": "1bbb33b2f3caef30",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 830,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "2a3f67a77b22f7c9",
+        "type": "function",
+        "z": "1bbb33b2f3caef30",
+        "name": "active",
+        "func": "msg.payload = msg.payload[7][\"Taux d'activité (En %)\"];\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 730,
+        "y": 300,
+        "wires": [
+            [
+                "869f466f9d30cb80",
+                "acc2b198ecacbe12"
+            ]
+        ]
+    },
+    {
+        "id": "4bf05be83b5c2ebd",
+        "type": "file in",
+        "z": "1bbb33b2f3caef30",
+        "name": "",
+        "filename": "C:\\Users\\CB\\Desktop\\chomage.csv",
+        "format": "utf8",
+        "chunk": false,
+        "sendError": false,
+        "encoding": "utf8",
+        "allProps": false,
+        "x": 400,
+        "y": 400,
+        "wires": [
+            [
+                "4bef5b83ee90cfdd"
+            ]
+        ]
+    },
+    {
+        "id": "f8090cb66ef89f04",
+        "type": "function",
+        "z": "1bbb33b2f3caef30",
+        "name": "chomage",
+        "func": "msg.payload = msg.payload[7][\"Taux de chômage(En %)\"];\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 360,
+        "wires": [
+            [
+                "3db45b61eb201071",
+                "75e989716198e860"
+            ]
+        ]
+    },
+    {
+        "id": "869f466f9d30cb80",
+        "type": "ui_text",
+        "z": "1bbb33b2f3caef30",
+        "group": "062925953da6525e",
+        "order": 3,
+        "width": 5,
+        "height": 5,
+        "name": "",
+        "label": "<font size=\"5\">  <font color=\"black\" <span class=\"fa fa-caret-down  \"> Taux d'activité</span> </font>",
+        "format": "<font size=\"5\">  {{msg.payload}} %",
+        "layout": "col-center",
+        "className": "",
+        "x": 1180,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "3db45b61eb201071",
+        "type": "ui_text",
+        "z": "1bbb33b2f3caef30",
+        "group": "062925953da6525e",
+        "order": 4,
+        "width": 5,
+        "height": 5,
+        "name": "",
+        "label": "<font size=\"5\">  <font color=\"black\" <span class=\"fa fa-caret-down  \"> Taux de chômage </span> </font>",
+        "format": "<font size=\"5\"> {{msg.payload}} %",
+        "layout": "col-center",
+        "className": "",
+        "x": 1130,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "58257eb5d31a25e7",
+        "type": "function",
+        "z": "1bbb33b2f3caef30",
+        "name": "",
+        "func": "var m={};\n m.labels=[\"2010\"];\nm.series = [msg.payload[0][\"Structure de l'emploi urbain selon les branches d'activité (En %)\"], msg.payload[1][\"Structure de l'emploi urbain selon les branches d'activité (En %)\"],msg.payload[2][\"Structure de l'emploi urbain selon les branches d'activité (En %)\"],msg.payload[4][\"Structure de l'emploi urbain selon les branches d'activité (En %)\"],msg.payload[5][\"Structure de l'emploi urbain selon les branches d'activité (En %)\"],msg.payload[6][\"Structure de l'emploi urbain selon les branches d'activité (En %)\"],msg.payload[7][\"Structure de l'emploi urbain selon les branches d'activité (En %)\"]];\n\nm.data = [\n    [msg.payload[0].valeur],\n    [msg.payload[1].valeur],\n    [msg.payload[2].valeur],\n    [msg.payload[4].valeur],\n    [msg.payload[5].valeur],\n    [msg.payload[6].valeur],\n    [msg.payload[7].valeur]\n    \n    \n  ];\n// for(i=0;i<8;i++){\n//     m.series.push({msg.payload[i][\"Structure de l'emploi urbain selon les branches d'activité (En %)\"]);\n//      m.data.push([msg.payload[i].valeur]);\n// }\n return {payload:[m]};\n\n// ChartData.data[0].push({\"x\":dateReport,\"y\":msg.payload[140].data[i].total_vaccinations} )\n\n// return msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 480,
+        "wires": [
+            [
+                "389c2ff5eed309a2",
+                "1e52df775e19f78c"
+            ]
+        ]
+    },
+    {
+        "id": "389c2ff5eed309a2",
+        "type": "debug",
+        "z": "1bbb33b2f3caef30",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 850,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "ed465091c3c2c94c",
+        "type": "debug",
+        "z": "1bbb33b2f3caef30",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 830,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "1e52df775e19f78c",
+        "type": "ui_chart",
+        "z": "1bbb33b2f3caef30",
+        "name": "",
+        "group": "062925953da6525e",
+        "order": 2,
+        "width": 17,
+        "height": 10,
+        "label": "<font color=\"black\">Structure de l'emploi urbain selon les branches d'activité (En %)",
+        "chartType": "bar",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": true,
+        "useUTC": false,
+        "colors": [
+            "#c01111",
+            "#e33f16",
+            "#c85c14",
+            "#d78f3c",
+            "#f2cc63",
+            "#eede91",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 930,
+        "y": 560,
+        "wires": [
+            [
+                "ed465091c3c2c94c"
+            ]
+        ]
+    },
+    {
+        "id": "acc2b198ecacbe12",
+        "type": "debug",
+        "z": "1bbb33b2f3caef30",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 850,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "75e989716198e860",
+        "type": "debug",
+        "z": "1bbb33b2f3caef30",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 710,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "09985c12332be3c6",
+        "type": "comment",
+        "z": "1bbb33b2f3caef30",
+        "name": "Chomage",
+        "info": "",
+        "x": 400,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "c5b1046b75d13bf4",
+        "type": "comment",
+        "z": "1bbb33b2f3caef30",
+        "name": " Taux de change",
+        "info": "",
+        "x": 400,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "9e5da51f4490691b",
+        "type": "inject",
+        "z": "1bbb33b2f3caef30",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 140,
+        "y": 720,
+        "wires": [
+            [
+                "ad232ad6aa1acd57",
+                "2d3b03a770c770cf",
+                "2750b71c0b252b48"
+            ]
+        ]
+    },
+    {
+        "id": "ad232ad6aa1acd57",
+        "type": "http request",
+        "z": "1bbb33b2f3caef30",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "https://v6.exchangerate-api.com/v6/50fdf79662d4aff81b0b3ac4/latest/USD",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "senderr": false,
+        "x": 330,
+        "y": 920,
+        "wires": [
+            [
+                "e3e7c687b1d64745"
+            ]
+        ]
+    },
+    {
+        "id": "e3e7c687b1d64745",
+        "type": "function",
+        "z": "1bbb33b2f3caef30",
+        "name": "USD",
+        "func": "msg = msg.payload;\nmsg.topic = \"USD\";\nmsg.payload = msg.conversion_rates.MAD;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 510,
+        "y": 920,
+        "wires": [
+            [
+                "d93990c72f464e7f"
+            ]
+        ]
+    },
+    {
+        "id": "2d3b03a770c770cf",
+        "type": "http request",
+        "z": "1bbb33b2f3caef30",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "https://v6.exchangerate-api.com/v6/50fdf79662d4aff81b0b3ac4/latest/EUR",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "senderr": false,
+        "x": 310,
+        "y": 980,
+        "wires": [
+            [
+                "98cf309a7f3b30cb"
+            ]
+        ]
+    },
+    {
+        "id": "98cf309a7f3b30cb",
+        "type": "function",
+        "z": "1bbb33b2f3caef30",
+        "name": "EUR",
+        "func": "msg = msg.payload;\nmsg.topic = \"EUR\";\nmsg.payload = msg.conversion_rates.MAD;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 490,
+        "y": 980,
+        "wires": [
+            [
+                "d93990c72f464e7f"
+            ]
+        ]
+    },
+    {
+        "id": "d93990c72f464e7f",
+        "type": "ui_chart",
+        "z": "1bbb33b2f3caef30",
+        "name": "",
+        "group": "2ee0d338e0ec4642",
+        "order": 2,
+        "width": 16,
+        "height": 6,
+        "label": "Taux de change (MAD)",
+        "chartType": "horizontalBar",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#6c4e47",
+            "#bb8d68",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 720,
+        "y": 920,
+        "wires": [
+            [
+                "1a54e85df588c8ac"
+            ]
+        ]
+    },
+    {
+        "id": "1a54e85df588c8ac",
+        "type": "debug",
+        "z": "1bbb33b2f3caef30",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 950,
+        "y": 920,
+        "wires": []
+    },
+    {
+        "id": "2750b71c0b252b48",
+        "type": "http request",
+        "z": "1bbb33b2f3caef30",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "https://v6.exchangerate-api.com/v6/50fdf79662d4aff81b0b3ac4/latest/MAD",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "senderr": false,
+        "x": 350,
+        "y": 1100,
+        "wires": [
+            [
+                "355fbb9e2a9fef2a"
+            ]
+        ]
+    },
+    {
+        "id": "00b120389f6438e1",
+        "type": "ui_text_input",
+        "z": "1bbb33b2f3caef30",
+        "name": "",
+        "label": "<font size=\"5\"> Entrez la devise",
+        "tooltip": "",
+        "group": "2ee0d338e0ec4642",
+        "order": 3,
+        "width": 6,
+        "height": 3,
+        "passthru": true,
+        "mode": "text",
+        "delay": 300,
+        "topic": "inp",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
+        "x": 570,
+        "y": 1060,
+        "wires": [
+            [
+                "36a0780d99460342"
+            ]
+        ]
+    },
+    {
+        "id": "36a0780d99460342",
+        "type": "function",
+        "z": "1bbb33b2f3caef30",
+        "name": "FUNC",
+        "func": "if(msg.topic==\"tout\"){\n   t = msg.payload;\n    \n}\nif(msg.topic==\"inp\"){\n   m = msg.payload;\n    for (var key in t) {\n        \n  if(key==m){\n      msg.payload = t[key];\n      return msg;\n  }\n}\n}\n\n\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 650,
+        "y": 1160,
+        "wires": [
+            [
+                "789b916f24be0cbf",
+                "a59de4a1c7bc7c6d"
+            ]
+        ]
+    },
+    {
+        "id": "355fbb9e2a9fef2a",
+        "type": "function",
+        "z": "1bbb33b2f3caef30",
+        "name": "tout les cur",
+        "func": "msg = msg.payload;\nmsg.topic = \"tout\";\nmsg.payload = msg.conversion_rates;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 1220,
+        "wires": [
+            [
+                "36a0780d99460342",
+                "35abec0b72874e85"
+            ]
+        ]
+    },
+    {
+        "id": "789b916f24be0cbf",
+        "type": "ui_text",
+        "z": "1bbb33b2f3caef30",
+        "group": "2ee0d338e0ec4642",
+        "order": 4,
+        "width": 6,
+        "height": 3,
+        "name": "",
+        "label": "<font size=\"5\"> 1 MAD = ",
+        "format": "<font size=\"5\"> {{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "x": 910,
+        "y": 1180,
+        "wires": []
+    },
+    {
+        "id": "a59de4a1c7bc7c6d",
+        "type": "debug",
+        "z": "1bbb33b2f3caef30",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 890,
+        "y": 1060,
+        "wires": []
+    },
+    {
+        "id": "35abec0b72874e85",
+        "type": "debug",
+        "z": "1bbb33b2f3caef30",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 650,
+        "y": 1280,
+        "wires": []
+    },
+    {
+        "id": "de5c056f1850099f",
+        "type": "ui_text",
+        "z": "1bbb33b2f3caef30",
+        "group": "062925953da6525e",
+        "order": 1,
+        "width": 5,
+        "height": 10,
+        "name": "",
+        "label": "",
+        "format": "<font size=\"5\">  <font color=\"black\" <span class=\"fa fa-briefcase \"> Emploi </span> </font>",
+        "layout": "col-center",
+        "className": "",
+        "x": 250,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "b4f1caf7292b5a02",
+        "type": "ui_text",
+        "z": "1bbb33b2f3caef30",
+        "group": "2ee0d338e0ec4642",
+        "order": 1,
+        "width": 5,
+        "height": 6,
+        "name": "",
+        "label": "",
+        "format": "<font size=\"5\">  <font color=\"black\" <span class=\"fa fa-money \">  Taux de change </span> </font>",
+        "layout": "col-center",
+        "className": "",
+        "x": 250,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "48cc7df6794176bd",
+        "type": "ui_worldmap",
+        "z": "e7444b840e31a65e",
+        "group": "8d9e8130bcbb5a2b",
+        "order": 2,
+        "width": 23,
+        "height": 14,
+        "name": "",
+        "lat": "28.9911",
+        "lon": "-8.217773",
+        "zoom": "5",
+        "layer": "OSMG",
+        "cluster": "",
+        "maxage": "",
+        "usermenu": "show",
+        "layers": "show",
+        "panit": "true",
+        "panlock": "false",
+        "zoomlock": "false",
+        "hiderightclick": "false",
+        "coords": "none",
+        "showgrid": "true",
+        "allowFileDrop": "false",
+        "path": "/worldmap",
+        "overlist": "HM",
+        "maplist": "OSMG,OSMC,EsriC,EsriS,EsriT,OpTop",
+        "mapname": "",
+        "mapurl": "",
+        "mapopt": "",
+        "mapwms": false,
+        "x": 520,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "1ede6f8b53a347e0",
+        "type": "ui_button",
+        "z": "e7444b840e31a65e",
+        "name": "",
+        "group": "8d9e8130bcbb5a2b",
+        "order": 5,
+        "width": 2,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "accueil",
+        "bgcolor": "#8C0A17",
+        "className": "",
+        "icon": "fa-street-view",
+        "payload": "Node-RED",
+        "payloadType": "str",
+        "topic": "",
+        "topicType": "str",
+        "x": 290,
+        "y": 260,
+        "wires": [
+            [
+                "76b0363ab9082e06"
+            ]
+        ]
+    },
+    {
+        "id": "7bebd83522fd6e86",
+        "type": "ui_template",
+        "z": "e7444b840e31a65e",
+        "group": "8d9e8130bcbb5a2b",
+        "name": "window redirect",
+        "order": 19,
+        "width": 26,
+        "height": 1,
+        "format": "<script>\n(function(scope) {\n    scope.$watch('msg.payload', function(data) {\n        if (data == \"Node-RED\") {\n          //window.open(\"https://www.nodered.org\");\n          window.location.href = \"http://127.0.0.1:1880/worldmap/\";\n        }\n    });\n})(scope);\n</script>",
+        "storeOutMessages": false,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "",
+        "x": 680,
+        "y": 280,
+        "wires": [
+            [
+                "b41f37de825ffcc1"
+            ]
+        ]
+    },
+    {
+        "id": "76b0363ab9082e06",
+        "type": "trigger",
+        "z": "e7444b840e31a65e",
+        "name": "reset msg",
+        "op1": "",
+        "op2": "empty",
+        "op1type": "pay",
+        "op2type": "str",
+        "duration": "250",
+        "extend": false,
+        "overrideDelay": false,
+        "units": "ms",
+        "reset": "",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "x": 500,
+        "y": 280,
+        "wires": [
+            [
+                "7bebd83522fd6e86"
+            ]
+        ]
+    },
+    {
+        "id": "b41f37de825ffcc1",
+        "type": "debug",
+        "z": "e7444b840e31a65e",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 870,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "939cebfcdfc1cf82",
+        "type": "worldmap",
+        "z": "e7444b840e31a65e",
+        "name": "",
+        "lat": "28.9911",
+        "lon": "-8.217773",
+        "zoom": "5",
+        "layer": "OSMG",
+        "cluster": "0",
+        "maxage": "",
+        "usermenu": "show",
+        "layers": "show",
+        "panit": "false",
+        "hiderightclick": "false",
+        "coords": "none",
+        "showgrid": "true",
+        "path": "/worldmap",
+        "overlist": "CO",
+        "maplist": "OSMG,OSMC,OSMH,EsriC,EsriS,EsriT,EsriO",
+        "mapname": "",
+        "mapurl": "",
+        "mapopt": "",
+        "mapwms": false,
+        "x": 780,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "c10e9601a3df8862",
+        "type": "function",
+        "z": "e7444b840e31a65e",
+        "name": "remove split",
+        "func": "msg.payload = {command:{side:\"none\"}};\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 520,
+        "wires": [
+            [
+                "939cebfcdfc1cf82"
+            ]
+        ]
+    },
+    {
+        "id": "14a3ca6d58d76852",
+        "type": "function",
+        "z": "e7444b840e31a65e",
+        "name": "Satellite",
+        "func": "msg.payload = {\n    command:{\n        side: \"Esri Satellite\", \n        split: 66,\n        showlayer: \"roads\"\n    }\n};\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 460,
+        "wires": [
+            [
+                "939cebfcdfc1cf82",
+                "13dea569898e1008"
+            ]
+        ]
+    },
+    {
+        "id": "eeb2ae7e44c5cfdf",
+        "type": "worldmap in",
+        "z": "e7444b840e31a65e",
+        "name": "",
+        "path": "/worldmap",
+        "events": "connect",
+        "x": 300,
+        "y": 460,
+        "wires": [
+            [
+                "216902026b4eded3"
+            ]
+        ]
+    },
+    {
+        "id": "216902026b4eded3",
+        "type": "switch",
+        "z": "e7444b840e31a65e",
+        "name": "",
+        "property": "payload.action",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "connected",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 440,
+        "y": 460,
+        "wires": [
+            [
+                "14a3ca6d58d76852"
+            ]
+        ]
+    },
+    {
+        "id": "3a9cd856bba5805d",
+        "type": "inject",
+        "z": "e7444b840e31a65e",
+        "name": "",
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "str",
+        "x": 300,
+        "y": 520,
+        "wires": [
+            [
+                "c10e9601a3df8862"
+            ]
+        ]
+    },
+    {
+        "id": "13dea569898e1008",
+        "type": "debug",
+        "z": "e7444b840e31a65e",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 690,
+        "y": 380,
+        "wires": []
+    }
+]
