@@ -22,3 +22,13 @@ This project is a collection of nodes for Node-RED to quickly create a live data
 
 # Excerpts from work done
 ## Map Flow :
+![Map](Img/Map.PNG)
+## Weather Flow :
+![Weather](Img/Weather.PNG)
+## Covid Flow :
+![Covid](Img/Covid1.PNG)
+![Covid](Img/covid2.PNG)
+## Economy Flow :
+![Economy](Img/Eco.PNG)
+# The result : 
+https://user-images.githubusercontent.com/80436572/215011040-ff02aaae-87e7-4a6d-9323-7d65fce686e1.mp4
