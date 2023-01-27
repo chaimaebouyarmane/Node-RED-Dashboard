@@ -31,11 +31,11 @@ This project is a collection of nodes for Node-RED to quickly create a live data
 ## Economy Flow :
 ![Economy](Img/Eco.PNG)
 # The result : 
-https://user-images.githubusercontent.com/80436572/215014560-765aed8f-85b1-4850-b839-7be9cc7133af.mp4
+https://user-images.githubusercontent.com/80436572/215017226-8cca49a9-b32f-4e48-92ef-918ebda4b233.mp4
 
-https://user-images.githubusercontent.com/80436572/215016581-4709a637-af11-4fca-961b-f56a4e370654.mp4
+https://user-images.githubusercontent.com/80436572/215017299-04fc51eb-bb95-4de1-a795-6b35d3ffe329.mp4
 
-https://user-images.githubusercontent.com/80436572/215016672-023d4ecf-fd5f-4acf-b02f-7c84538b3eda.mp4
+https://user-images.githubusercontent.com/80436572/215017356-60cb6d06-c747-40bb-b8ab-d5f5a13988fe.mp4
 
-https://user-images.githubusercontent.com/80436572/215016725-701d8c9d-e314-49ce-bc72-300dfeca70a3.mp4
+https://user-images.githubusercontent.com/80436572/215017523-f6456c70-d145-4ede-b7f1-fe294d16c8fc.mp4
 
