@@ -39,3 +39,12 @@ https://user-images.githubusercontent.com/80436572/215017356-60cb6d06-c747-40bb-
 
 https://user-images.githubusercontent.com/80436572/215017523-f6456c70-d145-4ede-b7f1-fe294d16c8fc.mp4
 
+## Contact :busts_in_silhouette:
+Feel free to reach out to us if you have any questions or suggestions:
+
+**Chaimae BOUYARMANE**
+
+ <a href="https://linkedin.com/in/chaimae-bouyarmane-14882622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaimae bouyarmane" height="30" width="40" /></a>
+<a href="https://github.com/chaimaebouyarmane" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Votre nom" height="30" width="40" />
+</a>
